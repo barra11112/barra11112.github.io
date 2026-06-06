@@ -1,4 +1,4 @@
-document.title = "kelasss";
+document.title = "Coffed-19";
 
 const navbarNav = document.querySelector(".navbar-nav");
 const hamburger = document.querySelector("#ham-menu");
